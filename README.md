@@ -49,8 +49,9 @@ https://miro.com/app/board/uXjVOseqBXo=/?share_link_id=154219146030
 ## demo
 https://drive.google.com/file/d/1OQ2ZEo-scmc2jp2X6aySwfWFgiNEZ7QI/view
 
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1OQ2ZEo-scmc2jp2X6aySwfWFgiNEZ7QI" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/6297eaea-5311-4ba3-9543-c7dad17c9435
+
+
 
